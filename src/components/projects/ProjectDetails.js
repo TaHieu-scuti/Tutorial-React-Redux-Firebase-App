@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-export class ProjectDetails extends Component {
+class ProjectDetails extends Component {
   render() {
     return (
       <div className="container section project-details">

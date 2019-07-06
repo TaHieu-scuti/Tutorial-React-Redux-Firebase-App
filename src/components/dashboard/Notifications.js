@@ -1,5 +1,4 @@
 import React from 'react';
-import { race } from 'q';
 
 class Notifications extends React.Component {
   render () {
